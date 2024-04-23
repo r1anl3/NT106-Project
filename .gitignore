@@ -1,0 +1,10 @@
+Library/
+.vs
+obj
+Temp
+ProjectSettings/
+*/JumpKing Online_*
+*/Mono*
+UserSettings/
+*/*.dll
+*/*CrashHandler*

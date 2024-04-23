@@ -4,7 +4,7 @@ obj
 Temp
 ProjectSettings/
 */JumpKing Online_*
-*/Mono*
+# */Mono*
 UserSettings/
 */*.dll
 */*CrashHandler*

@@ -120,8 +120,6 @@
 - Đối với mỗi lần gửi, Server sẽ gửi cho (n – 1) gói tin cho (n) người chơi.  
 4. **Network<a name="_page8_x97.00_y71.00"></a> stack**  
 
-***(Xem ở trang kế tiếp …)*** 
-
 ![](MD/ltm-sodo2.png)
 
 3. **Phân<a name="_page10_x97.00_y71.00"></a> chia công việc** 
